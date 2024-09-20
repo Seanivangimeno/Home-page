@@ -1,0 +1,28 @@
+form{
+    text-align:right;
+}
+header{
+    background-color:pink;
+    height:1000px;
+    width:100%;
+}
+.images{
+    height:200px;
+}
+
+input{
+    width:50px;
+}
+main{
+    background-color:gray;
+    height:800px;
+    width:100%;
+}
+footer{
+    background-color:pink;
+    width:100%;
+}
+
+h1{
+    text-align:center;
+}
